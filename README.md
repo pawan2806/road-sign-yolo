@@ -1,2 +1,2 @@
-# road-sign-yolo
-road sign yolo
+# yolo-training
+yolo training
